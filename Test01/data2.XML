@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<library country="USA" language="English" owner="Apify">
+	<book format="hardcover" language="English" availability_in_store="true">
+		<title>Harry Potter and the Sorcerer's Stone</title>
+		<author>J. K. Rowling</author>
+		<genre>Fantasy</genre>
+		<publication_year>1997</publication_year>
+		<isbn>978-0439708180</isbn>
+		<price>19.99</price>
+		<payment>
+			<cod>no</cod>
+			<refund>yes</refund>
+		</payment>
+	</book>
+	<book format="paperback" language="English" availability_in_store="true">
+		<title>To Kill a Mockingbird</title>
+		<author>Harper Lee</author>
+		<genre>Classic</genre>
+		<publication_year>1960</publication_year>
+		<isbn>978-0061120084</isbn>
+		<price>14.99</price>
+		<payment>
+			<cod>yes</cod>
+			<refund>no</refund>
+		</payment>
+	</book>
+	<book format="ebook" language="English" availability_in_store="false">
+		<title>The Great Gatsby</title>
+		<author>F. Scott Fitzgerald</author>
+		<genre>Classic</genre>
+		<publication_year>1925</publication_year>
+		<isbn>978-0743273565</isbn>
+		<price>12.99</price>
+		<payment>
+			<cod>no</cod>
+			<refund>yes</refund>
+		</payment>
+	</book>
+</library>
